@@ -4,7 +4,7 @@ detailed folder structure for the multi-tenant platform project, considering the
 project-root/
 │
 ├── tenants/                   # Tenant-specific code and configurations
-│   ├── unscreen/              # Unscreen tenant
+│   ├── xyz/              # XYZ tenant
 │   │   ├── web/               # Angular frontend
 │   │   │   ├── src/
 │   │   │   ├── assets/
